@@ -1,0 +1,18 @@
+What's and Object ?
+
+It's just a bunch of Instance variables, puls a link to a class.
+The object's methods dont live in the objects - they live in the 
+object's class, where they are called instace method of the call.
+
+what's a class ?
+
+it's just an object plus, a list of instance methods and a link to
+a superclass. Class is a subclass of Module, so a class is also 
+a module
+
+Like any object, a class has it's own methods such as new(), these
+are instance methods of the Class class. also like any object classe must
+access through references, you already have constance reference to each 
+class: a class's name
+
+
