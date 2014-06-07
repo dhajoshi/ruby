@@ -1,6 +1,6 @@
 What's and Object ?
 
-It's just a bunch of Instance variables, puls a link to a class.
+It's just a bunch of Instance variables, plus a link to a class.
 The object's methods dont live in the objects - they live in the 
 object's class, where they are called instace method of the call.
 
